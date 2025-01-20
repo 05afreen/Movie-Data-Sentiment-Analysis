@@ -1,4 +1,4 @@
-# Movie-Data-Sentiment-Analysis
+# Movie-Data-Analysis
 
 
 ### **Project Overview**:
